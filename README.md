@@ -2,7 +2,7 @@
 
 Veškerý kód byl kompilován pod Linux a funkčnost ověřena na lokální grafické kartě RTX 4060Ti 16GB (nVidia compute capability 8.9).
 
-# Task 1
+# Task 1 - Součet vektorů pomocí CUDA API.
 
 > 1. Pomocí jazyka C/C++, CUDA API a vhodných vývojových nástrojů (CUDA Online IDE, NVIDIA NSight, CodeLite+SSH,...) vytvořte aplikaci implementující paralelní součet prvků dvou vektorů o velikosti n inicializovaných na hodnoty 1 - n. Hodnotu n volte v řádech stovek až tisíců.
 > 2. Ověřte funkcionalitu na vzdáleném překladovém serveru a GPGPU Tesla K40.
